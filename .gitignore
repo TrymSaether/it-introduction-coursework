@@ -170,3 +170,7 @@ cython_debug/
 .ionide
 
 # End of https://www.toptal.com/developers/gitignore/api/jupyternotebooks,python,visualstudiocode
+.DS_Store
+Ovinger/.DS_Store
+Ovinger/Oving2/.DS_Store
+Ovinger/Oving3/.DS_Store
